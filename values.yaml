@@ -15,7 +15,7 @@ arangodb:
     repository: charts/arangodb-1.0.0.tgz
     tag: 2.0.0
 
-arangodb-ingress:
+arangodb-ingress-proxy:
   enabled: true
   image:
     repository: charts/arangodb-ingress-proxy-1.0.0.tgz

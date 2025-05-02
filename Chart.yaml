@@ -31,7 +31,7 @@ dependencies:
   - name: arangodb
     version: 1.0.0
     repository: charts/arangodb-1.0.0.tgz
-  - name: arangodb-ingress
+  - name: arangodb-ingress-proxy
     version: 1.0.0
     repository: charts/arangodb-ingress-proxy-1.0.0.tgz
   - name: elasticsearch
