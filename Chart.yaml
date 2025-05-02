@@ -19,11 +19,11 @@ keywords:
   - nginx-ingress-controller
   - prometheus
   - vault
-home: https://tazama-lf.github.io/GKE-helm
+home: https://afrong.github.io/tazama-GKE-helm
 maintainers:
-  - name: kyle
-    email: kyle.vorster@sybrin.com
-    url: https://github.com/vorsterk
+  - name: Folarin
+    email: folarin@upi.dev
+    url: https://github.com/afrong
 dependencies:
   - name: apm
     version: 8.5.1
