@@ -25,6 +25,14 @@ entries:
       urls:
         - https://afrong.github.io/tazama-GKE-helm/charts/arangodb-1.0.0.tgz
       version: 1.0.0
+  arangodb-ingress-proxy:
+    - apiVersion: v1
+      created: "2024-07-29T15:27:29.0304632+02:00"
+      description: ArangoDB Ingress Proxy
+      digest: 0f2b868e1f2a056117e01bc0163cfed922d695187727b164b468bd705230f730
+      name: arangodb-ingress-proxy
+      urls:
+        - charts/arangodb-ingress-proxy-1.0.0.tgz
   elasticsearch:
     - apiVersion: v1
       appVersion: 8.5.1
